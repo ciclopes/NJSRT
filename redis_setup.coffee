@@ -1,3 +1,5 @@
+#define VERSION 0.0.1a
+
 fs = require 'fs'
 execSync = require('child_process').execSync
 
